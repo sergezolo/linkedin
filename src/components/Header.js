@@ -29,7 +29,7 @@ function Header() {
                 <HeaderOption Icon={BusinessCenterIcon} title="Jobs"/>
                 <HeaderOption Icon={SmsIcon} title="Messaging"/>
                 <HeaderOption Icon={NotificationsIcon} title="Notifications"/>
-                <HeaderOption avatar="https://media-exp1.licdn.com/dms/image/C4E03AQFzG-gEFc2I2Q/profile-displayphoto-shrink_100_100/0/1613158890439?e=1635379200&v=beta&t=8HQ9d0vILon-tvZhVRuFvohsucNWCck6MH_nVjBbJbs" title="me" />
+                <HeaderOption avatar="https://media-exp1.licdn.com/dms/image/C4E03AQFzG-gEFc2I2Q/profile-displayphoto-shrink_100_100/0/1613158890439?e=1635379200&v=beta&t=8HQ9d0vILon-tvZhVRuFvohsucNWCck6MH_nVjBbJbs" title="Me" />
             </div>
         </div>
     )
