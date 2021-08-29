@@ -11,13 +11,13 @@
     margin-bottom: 10px;
 }
 
-.sidebar-top > h4 {
+.sidebar-top>h4 {
     margin: 5px;
     color: gray;
     font-size: 12px;
 }
 
-.sidebar-top > h2 {
+.sidebar-top>h2 {
     margin: 5px;
     font-size: 18px;
 }
@@ -34,7 +34,7 @@
     padding-bottom: 10px;
 }
 
-.sidebar-top > img {
+.sidebar-top>img {
     margin-bottom: -20px;
     width: 100%;
     height: 60px;
@@ -49,7 +49,7 @@
     justify-content: space-between;
 }
 
-.sidebar-stat > p {
+.sidebar-stat>p {
     color: gray;
     font-size: 13px;
     font-weight: 600;
@@ -100,7 +100,7 @@
     margin-left: 5px;
 }
 
-.sidebar-bottom > p {
+.sidebar-bottom>p {
     font-size: 13px;
     padding-bottom: 10px;
 }

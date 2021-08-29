@@ -17,15 +17,16 @@
     display: flex;
     padding: 10px;
     color: gray;
-    padding-left: 15px;;
+    padding-left: 15px;
+    ;
 }
 
-.feed-input > form {
+.feed-input>form {
     display: flex;
     width: 100%;
 }
 
-.feed-input > form > input {
+.feed-input>form>input {
     border: none;
     flex: 1;
     margin-left: 10px;
@@ -33,11 +34,11 @@
     font-weight: 600;
 }
 
-.feed-input > form > button {
+.feed-input>form>button {
     display: none;
 }
 
 .feed-input-options {
     display: flex;
-    justify-content: space-evenly;    
+    justify-content: space-evenly;
 }

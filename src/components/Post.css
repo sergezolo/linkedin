@@ -15,7 +15,7 @@
     margin-left: 10px;
 }
 
-.post-info > p {
+.post-info>p {
     font-size: 12px;
     color: gray;
 }
@@ -24,7 +24,7 @@
     overflow-wrap: anywhere;
 }
 
-.post-info > h2 {
+.post-info>h2 {
     font-size: 15px;
 }
 
