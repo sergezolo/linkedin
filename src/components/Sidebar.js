@@ -23,7 +23,7 @@ function Sidebar() {
                     src="https://media-exp1.licdn.com/dms/image/C4E16AQF_R1a1IA4Sew/profile-displaybackgroundimage-shrink_200_800/0/1613154473682?e=1635379200&v=beta&t=iJN3kXIDz4JpC88ReePVV_laYr5Xxi7mS9R0Io9iZe0" 
                     alt="background-img"
                 />
-                <Avatar className="sidebar-avatar" src={user?.photoUrl}>{user?.displayName[0]}</Avatar>
+                <Avatar className="sidebar-avatar" src={user?.photoUrl}>{user?.email[0]}</Avatar>
                 <h2>{user.displayName}</h2>
                 <h4>{user.email}</h4>
             </div>
